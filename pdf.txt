@@ -1,0 +1,27 @@
+kit 3				
+soc 2
+shin 4
+kit 2
+soc 4
+shin 1
+shoes 1
+ball 4
+shin 3
+kit 1
+ball 2
+ball 3
+kit 4
+soc 3
+soc 1
+shoes 3
+shoes 4
+
+sorted
+shoes 1, 3, 4
+kit 1,2,3,4
+ball 2,3,4
+soc 1,2,3,4
+shin 1, 3 , 4
+
+
+ 
